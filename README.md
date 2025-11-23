@@ -55,6 +55,7 @@ Des clients satisfaits dans **5 pays** : Maroc 🇲🇦, Gabon 🇬🇦, Côte d
 #### Ils nous font confiance :
 - **Pr3sence Online**
 - **Smart Queue**
+- **Open Seat In Gabon**
 - **Traduction Assermentée**
 
 ---
