@@ -76,10 +76,10 @@ Des clients satisfaits dans **5 pays** : Maroc 🇲🇦, Gabon 🇬🇦, Côte d
 🌐 **Site web :** [https://tor6stems.com](https://tor6stems.com)  
 
 #### Réseaux sociaux :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]()
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tortuga-security-systems/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/TortugaSecutySystems)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tortuga_security_systems/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://twitter.com/tor6stems)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://x.com/Tor6stems)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](http://www.youtube.com/@TortugaSecuritySystems)
 [![TikTok](https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white)](https://www.tiktok.com/@tortuga_security_systems)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/212629150854)
